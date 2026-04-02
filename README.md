@@ -10,4 +10,6 @@ At the end I expect to know C++ fairly well, and SOME memory management too mayb
 For, Do
 If, Else
 Print
-State
+Statements
+Switch
+Variables
